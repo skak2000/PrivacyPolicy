@@ -1,0 +1,35 @@
+Privacy Policy - SnapUnit Converter
+
+Last updated: December 2025
+
+This app does NOT collect, share, or sell any personal data.
+Information we Collect
+
+The app only stores technical information when you voluntarily submit feedback, for the sole purpose of improving app stability and compatibility:
+
+Device model
+Device manufacturer
+Device name
+Operating system (OS)
+OS version
+App version
+App build
+Display width
+Display height
+Display density
+Screen orientation
+
+This information cannot be used to identify you personally.
+
+How We Use Information
+The collected information is used exclusively for:
+
+Debugging and error analysis
+Improving app performance and compatibility
+
+Data Sharing
+No data is shared with third parties
+No data is used for advertising or tracking purposes
+
+Data Security
+All data is stored securely and retained only as long as necessary to analyze feedback.
